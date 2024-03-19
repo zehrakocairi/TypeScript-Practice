@@ -9,7 +9,7 @@ export class SimpleDataSource {
             new Product (2,"Samsung S6","Phone",300),
             new Product (3,"Samsung S7","Phone",400),
             new Product (4,"Samsung S8","Phone",500),
-            );
+        );
     }
 
     getProducts(): Product[]{
